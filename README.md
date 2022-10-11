@@ -5,6 +5,17 @@
 
 <a> My Tech Stack </a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys03055&show_icons=true&theme=moltack)
 
@@ -12,8 +23,8 @@
 
 
 <a> My SNS </a>
- <a href="https://www.facebook.com/profile.php?id=100006928805084" target="_blank"><img src="https://img.shields.io/badge/Facebook-E4405F?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/lim_____yd/" target="_blank"><img src="https://img.shields.io/badge/Instragram-1877F2?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.facebook.com/profile.php?id=100006928805084" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/lim_____yd/" target="_blank"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
