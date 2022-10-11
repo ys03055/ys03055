@@ -1,6 +1,9 @@
 ### Hello! I'm YongDeok Lim! 👋
 
-![header](https://capsule-render.vercel.app/api?text=Welcome to my Profile! &animation=fadeIn)
+<br/> 
+<br/> 
+
+![header](https://capsule-render.vercel.app/api?text=Welcome to Dek's Profile!&animation=fadeIn)
 
 <br/> 
 <br/> 
@@ -10,7 +13,7 @@
 <br/> 
 
 
-<a> My Tech Stack </a>
+### My Tech Stack 
 <br/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=badge&logo=java&logoColor=white">
@@ -35,7 +38,7 @@
 <br/> 
 
 
-<a> My Tech Stack </a>
+### My Tech Stack 
 <br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys03055&show_icons=true&theme=moltack)
@@ -47,7 +50,7 @@
 <br/> 
 
 
-<a> My SNS </a>
+### My SNS 
 <br/> 
  <a href="https://www.facebook.com/profile.php?id=100006928805084" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lim_____yd/" target="_blank"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
