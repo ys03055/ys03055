@@ -4,14 +4,8 @@
 <br/> 
 
 
-![header](https://capsule-render.vercel.app/api?text=Welcome to Dek's Profile!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
 
 
 ### My Tech Stack 
@@ -43,10 +37,6 @@
 
 <br/> 
 <br/> 
-<br/> 
-<br/> 
-<br/> 
-
 
 ### My SNS 
 <br/> 
