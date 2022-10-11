@@ -1,9 +1,17 @@
 ### Hello! I'm YongDeok Lim! 👋
 
-![header](https://capsule-render.vercel.app/api?text=Welcome to my Profile!&fontColor=d6ace6 &animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Welcome to my Profile! &animation=fadeIn)
+
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 <a> My Tech Stack </a>
+<br/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=badge&logo=javascript&logoColor=white">
@@ -20,14 +28,27 @@
 <img src="https://img.shields.io/badge/r-276DC3?style=badge&logo=jquery&r=white">
 <img src="https://img.shields.io/badge/android-3DDC84?style=badge&logo=android&r=white">
 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+
+
 <a> My Tech Stack </a>
+<br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys03055&show_icons=true&theme=moltack)
 
-
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 
 <a> My SNS </a>
+<br/> 
  <a href="https://www.facebook.com/profile.php?id=100006928805084" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lim_____yd/" target="_blank"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
