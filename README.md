@@ -1,12 +1,12 @@
 ### Hello! I'm YongDeok Lim! 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?text=Welcome to my Profile!&fontColor=d6ace6 &animation=fadeIn)
 
 
 <a> My Tech Stack </a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E-3776AB?style=badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=badge&logo=html&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=badge&logo=css&logoColor=white">
