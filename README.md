@@ -3,6 +3,7 @@
 <br/> 
 <br/> 
 
+
 ![header](https://capsule-render.vercel.app/api?text=Welcome to Dek's Profile!&animation=fadeIn)
 
 <br/> 
@@ -31,17 +32,12 @@
 <img src="https://img.shields.io/badge/r-276DC3?style=badge&logo=jquery&r=white">
 <img src="https://img.shields.io/badge/android-3DDC84?style=badge&logo=android&r=white">
 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
+
 <br/> 
 
-
-### My Tech Stack 
-<br/> 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ys03055)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys03055&show_icons=true&theme=moltack)
+
 
 <br/> 
 <br/> 
