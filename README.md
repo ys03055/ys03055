@@ -1,7 +1,8 @@
 
 <div align=center><h1>Hello! I'm YongDeok Lim! 👋 </h1></div>
 <br/> 
-<a> 🌱I wanna be a Front-End developer🌱 </a>
+<br/> 
+<div align=center><a> 🌱I wanna be a Front-End developer🌱 </a></div>
 <br/> 
 <br/> 
 <br/> 
@@ -41,7 +42,8 @@
 <br/> 
 <hr>
 <br/> 
-### ✨My SNS✨ 
+<div align=center><a> ✨My SNS✨ </a></div>
+<br/>
  <a href="https://www.facebook.com/profile.php?id=100006928805084" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lim_____yd/" target="_blank"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
