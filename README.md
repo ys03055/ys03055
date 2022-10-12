@@ -4,12 +4,11 @@
 <br/> 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to%20My Profile&fontSize=90)
 
 
 
 ### My Tech Stack 
-<br/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=badge&logo=javascript&logoColor=white">
