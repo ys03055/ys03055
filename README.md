@@ -8,7 +8,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome to%20My Profile!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=footer&text=Hi%20There&fontSize=100)
 <br/> 
 <hr>
 <br/> 
