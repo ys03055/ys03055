@@ -1,6 +1,6 @@
 
 <div align=center><h1>Hello! I'm YongDeok Lim! 👋 </h1></div>
-
+<br/> 
 <div align=center><a> 🌱I wanna be a Front-End developer🌱 </a></div>
 <br/> 
 <br/> 
@@ -8,7 +8,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome to%My Profile!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome to%20My Profile!&fontSize=40)
 <br/> 
 <hr>
 <br/> 
@@ -36,7 +36,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys03055&show_icons=true&theme=moltack)
 [![ys03055's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ys03055&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ys03055)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ys03055&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys03055)](https://solved.ac/ys03055)
 
 <br/> 
