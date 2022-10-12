@@ -8,7 +8,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Hi%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Hi%20There&fontSize=100)
 <br/> 
 <hr>
 <br/> 
