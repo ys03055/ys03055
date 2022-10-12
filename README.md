@@ -1,14 +1,19 @@
 
 <div align=center><h1>Hello! I'm YongDeok Lim! 👋 </h1></div>
+<br/> 
+<a> 🌱I wanna be a Front-End developer🌱 </a>
+<br/> 
+<br/> 
+<br/> 
 
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to My Profile&fontSize=90)
-
+<br/> 
 <hr>
+<br/> 
 
-
-### My Tech Stack 
+### ⚡My Tech Stack⚡ 
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
 <img src="https://img.shields.io/badge/java-007396?style=badge&logo=java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=badge&logo=javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
@@ -25,19 +30,18 @@
 <img src="https://img.shields.io/badge/r-276DC3?style=badge&logo=jquery&r=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
 <img src="https://img.shields.io/badge/android-3DDC84?style=badge&logo=android&r=white "style="height : auto; margin-left : 10px; margin-right : 10px;">
 
-
+<br/> 
 <hr>
-
+<br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys03055&show_icons=true&theme=moltack)
 [![ys03055's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ys03055&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ys03055)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ys03055&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<hr>
-
-### My SNS 
 <br/> 
+<hr>
+<br/> 
+### ✨My SNS✨ 
  <a href="https://www.facebook.com/profile.php?id=100006928805084" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/lim_____yd/" target="_blank"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
